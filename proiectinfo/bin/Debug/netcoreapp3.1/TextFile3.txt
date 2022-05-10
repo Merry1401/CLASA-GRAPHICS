@@ -1,0 +1,5 @@
+﻿Pentru a desena o linie sunt necesare|4 coordonate|2 coordonate|5 coordonate|4 coordonate
+Textfile se creeaza prin|Click right- Add - Existing item - textfile|click right - add - new file - form.cs|click right - add - new item - textfile|click right - add - new item - textfile
+Culoarea de umplere este|Hatch Brush|SolidBrush|TextureBrush|SolidBrush
+Using System.Drawing.Drawing2D este o biblioteca folosita pentru|animatie dreptunghi|desenare poligon|rotire imagine|desenare poligon
+Pentru a desena o linie întreruptă la Events|se selectioneaza Paint|păstrăm EventsArgs|se selectioneaza MouseClick|se selectioneaza Paint
