@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="algoritm_fill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="anim_matrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ans_test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ans_test_r.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="aparitii_succesive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cod_slideshow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="coords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desenmouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desenstring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desen_dreptunghi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desen_elipsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desen_floare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desen_linie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desen_poligon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desen_soare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="desen_string.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="divide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="grafice_mate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="harta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="imperechere_culori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inregistrare_elevi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="itemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lista_circulara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="liste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="marire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="matrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="meniu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="miscare_imagine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pagina_start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="radio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="recursivitate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rotatie_imagine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rotatie_taste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rotatie_translatie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rotiri_string.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secventa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="slideshow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="string_colorat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="test1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="testcheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="test_grila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="test_imagini.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
