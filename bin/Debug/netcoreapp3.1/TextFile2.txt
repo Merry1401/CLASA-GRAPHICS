@@ -1,0 +1,38 @@
+﻿Pentru animatiile de string sunt incluse alte biblioteci pe langa cele oferite de programul de la inceput.
+Nu
+Textfile se salveaza in bin debug.
+Da
+Pentru a utiliza o culoare, se noteaza in fata numelui culorii Color. ( ex Color.Magenta )
+Da
+Pentru un test radio, sunt necesare doar radiobuttons
+Nu
+Pentru a porni un timer se tastează timer1.Start();
+Da
+Pentru a deschide un nou form se tastează: Form2 f = new Form2(); f.Show();
+Da
+g = this.CreateGraphics(); apare doar in form-urile cu libraria "using System.Drawing.Drawing2D".
+Nu
+Un solidbrush poate fi creat doar la inceputul programului.
+Nu
+"AdjustableArrowCap bigArrow = new AdjustableArrowCap(4, 4);" necesita libraria "using System.Drawing.Drawing2D;".
+Da
+In sintaxa "g.DrawRectangle(Pens.Blue, rectangle2);", "Blue" reprezinta culoarea de umplere.
+Nu
+"Image newImage = Image.FromFile(v[i % n].poza.ToString());" selecteaza imaginea dintr-un textfile.
+Da
+"using System.Drawing.Drawing2D;" este utilizata simultan cu "Graphics g;".
+Nu
+In "Font drawFont = new Font("Arial", 20);", "Arial" reprezinta font-ul string-ului, iar "20" reprezinta marimea string-ului.
+Da
+"MessageBox.Show(widththird.ToString() + "  " + heightthird.ToString());"(animatie matrice)afiseaza lungimea si latimea imaginii.
+Da
+"g.DrawString(drawString, drawFont, drawBrush, x, y);" deseneaza string-ul, precizand font-ul si brush-ul.
+Da
+Un solidbrush poate fi folosit pentru mai multe forme elementare.
+Da
+Database-urile necesita libraria"using System.Data.SqlClient;".
+Da
+Pentru a realiza conexiunea cu un database, trebuie copiat "Connection String"-ul acestuia.
+Da
+"SqlConnection con = new SqlConnection(@"connection_string");" necesita libraria "using System.Data.SqlClient;".
+Da

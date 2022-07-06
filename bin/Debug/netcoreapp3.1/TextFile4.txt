@@ -1,0 +1,4 @@
+blue.jpg/C:\Users\Wind 10\source\repos\ProiectGraphics\bin\Debug\netcoreapp3.1\blue.jpg
+cimbrisor.jpg/C:\Users\Wind 10\source\repos\ProiectGraphics\bin\Debug\netcoreapp3.1\cimbrisor.jpg
+bujori.jpg/C:\Users\Wind 10\source\repos\ProiectGraphics\bin\Debug\netcoreapp3.1\bujori.jpg
+floaredecolt.jpg/C:\Users\Wind 10\source\repos\ProiectGraphics\bin\Debug\netcoreapp3.1\floaredecolt.jpg

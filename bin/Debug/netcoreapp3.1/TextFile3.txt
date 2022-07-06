@@ -1,0 +1,16 @@
+﻿Pentru a desena o linie sunt necesare|4 coordonate|2 coordonate|5 coordonate|4 coordonate
+Textfile se creeaza prin|Click right- Add - Existing item - textfile|click right - add - new file - form.cs|click right - add - new item - textfile|click right - add - new item - textfile
+Culoarea de umplere este|Hatch Brush|SolidBrush|TextureBrush|SolidBrush
+Using System.Drawing.Drawing2D este o biblioteca folosita pentru|animatie dreptunghi|desenare poligon|rotire imagine|desenare poligon
+Pentru a desena o linie întreruptă la Events|se selectioneaza Paint|păstrăm EventsArgs|se selectioneaza MouseClick|se selectioneaza Paint
+Variabila y = 238.0F este de tip|int|float|double|float
+Pentru a desena un string, se tasteaza: |String drawstring = new String("abc");|String new drawstring = "abc";|String drawString = "abc";|String drawstring = "abc";
+using (StreamReader fin = new StreamReader(s)) necesita libraria|using System.Threading;|using System.Drawing.Drawing2D;||using System.IO;|using System.IO;
+"MessageBox.Show(e.X.ToString() + "   " + e.Y.ToString());" afiseaza coordonatele mouse-ului daca folosim event-ul:|MouseClick|MouseEnter|MouseMove|MouseClick
+Pentru a selecta o imagine din documentele personale utilizam|ComboBox|openFileDialog|ListBox|openFileDialog
+"button1.BackColor = Color.MediumSlateBlue;" apare in event-ul|doar in MouseHover|MouseHover si MouseLeave|doar in MouseLeave|MouseHover si MouseLeave
+In sintaxa "Pen blackPen = new Pen(Color.Black, 3);", "blackpen" reprezinta|culoarea instrumentului de desen|numele instrumentului de desen|font-ul instrumentului de desen|numele instrumentului de desen
+Graficele matematice utilizeaza date de tip|float|double|int|float
+La realizarea unei clase, introducerea coordonatelor se realizeaza astfel:|int x,y;|public int x,y;|ambele sunt corecte|public int x,y;
+Pentru a introduce text in label, se tasteaza:|label1.Text("");|"label1.Text = "";"|label1.Text = new label1("");|label1.Text="";
+Pentru a afisa textul, se tasteaza:|MessageBox.Show("");|Message.box.Show();|MessageBox.Show();|MessageBox.Show("");
